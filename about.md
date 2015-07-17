@@ -4,6 +4,9 @@ permalink: about/
 profile: true
 ---
 
-This is a static page. It could be an 'about page' if you'd like.
+Hi~
+I'm Gao Chao, aka supergrubby on the Internet.
+Internet is all about sharing and I would like to share my ideas and notes with everyone coming cross this corner.
+
 
 {% include footer.html %}
