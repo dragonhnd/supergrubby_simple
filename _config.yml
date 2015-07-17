@@ -9,7 +9,7 @@ highlighter: pygments
 
 paginate: 20
 baseurl: /
-domain_name: 'http://supergrubby.com'
+domain_name: 'supergrubby.com'
 google_analytics: 'UA-49866314-1'
 disqus_shortname: 'supergrubby'
 
