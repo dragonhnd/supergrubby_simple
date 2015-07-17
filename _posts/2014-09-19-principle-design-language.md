@@ -1,8 +1,7 @@
 ---
-layout: article
 title : "语言设计的原则"
-categories: hack
 date: 2014-09-19 16:27:31
+description: Notes about language design
 ---
 
 1. 简洁性
