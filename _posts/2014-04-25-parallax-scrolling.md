@@ -1,11 +1,7 @@
 ---
-layout: article
 title: "Parallax Scrolling"
-categories: hack
-modified: 2014-04-25 12:27:31
-tags: [tech]
-toc: true
-comments: true
+date: 2014-04-25 12:27:31
+description: Some tips about CSS animation
 ---
 
 **Parallax Scrolling** can make your website more active and attractive if you can use it approriately.
