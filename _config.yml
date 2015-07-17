@@ -11,7 +11,7 @@ paginate: 20
 baseurl: /
 domain_name: 'http://supergrubby.com'
 google_analytics: 'UA-49866314-1'
-disqus_shortname: 'repus'
+disqus_shortname: 'supergrubby'
 
 # Details for the RSS feed generator
 url:            'http://supergrubby.com'
