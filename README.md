@@ -4,7 +4,7 @@ And it's built up on a project of [nickbalestra](http://nick.balestra.ch/2015/Ka
 
 
 ## Thanks
-Most of the work has been already done by the [Cactus for mac authors](https://github.com/koenbok/Cactus/blob/master/AUTHORS), I've just ported their default theme to Jekyll.
+Most of the work has been already done by the [Cactus for mac authors](https://github.com/koenbok/Cactus/blob/master/AUTHORS), Nick has ported their default theme to Jekyll.
 Nick has also added few things specific to Jekyll and some minor style changes.
 
 ## Copyright & License
