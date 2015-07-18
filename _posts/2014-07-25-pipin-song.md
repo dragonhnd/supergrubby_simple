@@ -1,6 +1,7 @@
 ---
 title: "Pinpin's Song"
 date: 2014-07-25 16:27:31
+description: 随笔
 ---
 
 Mist and shadow. Cloud and shape. All shall fade.
