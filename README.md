@@ -1,34 +1,11 @@
-# Cactus Theme for Jekyll
+This is my personal website.
 
-This is a port of [Cactus](https://github.com/koenbok/Cactus)'s default theme for Jekyll.
-Feel free to fork, change, modify and re-use it.
-
-## How to use it
-
-Simply clone this repository, and then run `jekyll serve` inside the directory.
-This theme is fully compliant with GH Pages and their dependencies.
-For extra info: [Using Jekyll with Pages](https://help.github.com/articles/using-jekyll-with-pages/#keeping-jekyll-up-to-date).
-
-Cactus theme includes:
-
-* Pagination
-* Rss feed
-* Google Analytics Tracking code
-* Code Syntax Highlight
-* Author's profile with picture header
-* Twitter/Facebook share buttons
-* Archive posts list under each post
-* Disqus comments
-
-## Screenshots
-
-![index page](https://raw.githubusercontent.com/nickbalestra/kactus/master/assets/images/Kactus-theme-index.png)
-![post page](https://raw.githubusercontent.com/nickbalestra/kactus/master/assets/images/Kactus-theme-post.png)
+And it's built up on a project of [nickbalestra](http://nick.balestra.ch/2015/Kactus/).
 
 
 ## Thanks
 Most of the work has been already done by the [Cactus for mac authors](https://github.com/koenbok/Cactus/blob/master/AUTHORS), I've just ported their default theme to Jekyll.
-I've also added few things specific to Jekyll and some minor style changes.
+Nick has also added few things specific to Jekyll and some minor style changes.
 
 ## Copyright & License
 
@@ -51,3 +28,5 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />All articles in this work are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
