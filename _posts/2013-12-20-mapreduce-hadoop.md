@@ -18,26 +18,26 @@ Copy data over network consuming time -> MapReduce
 * scale and failure of large clusters
 
 
-###HDFS
+###1. HDFS
 * Distributed File System
 * Global file namespace
 * Repilca to ensure data recovery
 
 **core arch** - detection faults, automatic recovery
 
-###Data Characteristics
+###2. Data Characteristics
 * Streaming data
 * Batch processing
 * Write once read many
 
 
-###Master/slave arch
+###3. Master/slave arch
 * NameNode as master -> namesapce for data storage in files
 * DataNode as slave -> files splited
 * Namenode stores meta-data(c, r, m, rn, etc), the number of replicas
 
 
-###Data Replication
+###4. Data Replication
 * File -> sequence of blocks(same size except the last one)
 * Fault tolerance
 * Size configurable
@@ -46,14 +46,14 @@ Copy data over network consuming time -> MapReduce
 * NameNode check DataNode with acceptable number of replicas, if not-> **SafeMode**
 
 
-###Filesystem MetaData###
+###5. Filesystem MetaData###
 * EditLog(in NameNode) to record changes of metadata
 * Keep image of entire file system ns
 * startup -> Gets FsImage & EditLog -> Update FsImage with EditLog -> Sotes a copy of FsImage as a checkpoint
 * last checkpoint recovered when crash
 
 
-###DataNode
+###6. DataNode
 * block - separate file
 * placed in different directories
 * creation determined by heuristics
@@ -72,13 +72,13 @@ Copy data over network consuming time -> MapReduce
 * R Reduce tasks, smaller than M usually
 
 
-###Data Flow
+###1. Data Flow
 * DataNode server - computation server
 * input and final output stored in distributed FS, near the input location
 * intermediate results soted on local FS of Map and Reduce Workers
 
 
-###Coordination
+###2. Coordination
 * Master Node - coordination
 * Task status - idle, in-progress, completed
 * idle tasks -> availbale worker
@@ -86,12 +86,12 @@ Copy data over network consuming time -> MapReduce
 * Master ping workers periodically to detect fails
 
 
-###Failure
+###3. Failure
 * Map Task - completed and i-p Map tasks -> idle -> notice Reduce worker them rescheduled
 * Reudce Task - i-p ->idle -> restarted
 * Master Failure -> task aborted and notify the client
 
 
-###Refinement
+###4. Refinement
 * pre-aggregating values in mapper
 * partiation function - Hash mod R

@@ -1,7 +1,7 @@
 ---
 title: "Arno's last script"
 date: 2015-09-23 20:32:31
-description: test
+description: 随笔
 ---
 
 ![Arno Side Face](http://7xmr35.com1.z0.glb.clouddn.com/imagearno%20side%20.jpg)
