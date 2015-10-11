@@ -1,5 +1,5 @@
 name: SuperXSuper
-description: 
+description:
 meta_description: ""
 
 aboutPage: true
@@ -15,7 +15,7 @@ disqus_shortname: 'supergrubby'
 
 # Details for the RSS feed generator
 url:            'http://supergrubby.com'
-author:         'supergrubby'
+author:         'Gao, Chao'
 authorTwitter:  'supergrubby'
 
 permalink:       /:year/:title/
