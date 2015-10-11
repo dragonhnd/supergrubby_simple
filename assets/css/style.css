@@ -56,8 +56,8 @@ p {
 html, body { height: 100%; }
 
 body {
-	font:16px/1 "Helvetica Neue", Helvetica, Arial, sans-serif;
-	color: #666;
+	font: 400 18px/1.62 "Georgia", "Xin Gothic", "Hiragino Sans GB", "Droid Sans Fallback", "Microsoft YaHei", sans-serif;
+  color: #444443;
 	-webkit-font-smoothing: antialiased;
 	text-rendering: optimizeLegibility;
 }
@@ -240,6 +240,11 @@ em, i { font-style: italic; }
 	color: #bbb;
 }
 
+.post {
+	font: 400 18px/1.62 "Georgia", "Xin Gothic", "Hiragino Sans GB", "Droid Sans Fallback", "Microsoft YaHei", sans-serif;
+  color: #444443;
+}
+
 .post header {
 	text-align:center;
 
@@ -248,19 +253,19 @@ em, i { font-style: italic; }
 .post h1 {
 	margin-bottom:2 0px;
 	color: #222;
-	font: 300 32px/1.4em "Helvetica Neue", Helvetica,Arial,sans-serif;
+	/*font: 300 32px/1.4em "Helvetica Neue", Helvetica,Arial,sans-serif;*/
 }
 
 .post h2 {
 	margin-bottom: 25px;
-	  font: 300 24px/1.5 "Helvetica Neue",Helvetica,Arial,sans-serif;
+	  /*font: 300 24px/1.5 "Helvetica Neue",Helvetica,Arial,sans-serif;*/
 	  color: #111;
 }
 
 
 .post h2.headline {
 	/*font: italic 22px/1.3em Georgia,serif;*/
-	font: normal 13px/1.5em "Helvetica Neue",Helvetica,Arial,sans-serif;
+	/*font: normal 13px/1.5em "Helvetica Neue",Helvetica,Arial,sans-serif;*/
 	margin: -5px 0 40px 0;
 	color: #b2b9be;
 	  font-size: 13px;
@@ -271,7 +276,7 @@ em, i { font-style: italic; }
 }
 
 #post-list h2 {
-	font: normal 17px/1.5em "Helvetica Neue",Helvetica,Arial,sans-serif;
+	/*font: normal 17px/1.5em "Helvetica Neue",Helvetica,Arial,sans-serif;*/
 	color: #aaa;
 	max-width: 400px;
 	margin-top: 2px;
