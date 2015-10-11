@@ -169,7 +169,7 @@ a,
 	color: #5694f1;
 }
 
-p a { color: #5694f1; }
+/*p a { color: #5694f1; }*/
 
 /*Transitions*/
 a,
@@ -182,7 +182,7 @@ a,
 	transition: all 0.15s ease;
 }
 
-ul 	{ margin:0; padding:0; }
+ul 	{ margin:10px; padding:0; }
 li	{ list-style-type:circle; list-style-position:inside; }
 
 /* Line Height */
@@ -233,7 +233,7 @@ em, i { font-style: italic; }
 }
 
 .post h2 {
-	margin-bottom: 40px;
+	margin-bottom: 25px;
 	  font: 300 24px/1.5 "Helvetica Neue",Helvetica,Arial,sans-serif;
 	  color: #111;
 }
