@@ -47,7 +47,10 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
 margin-bottom: 20px;
 }
 
-p {	margin-bottom: 10px;}
+p {
+	margin-top: 0;
+	margin-bottom: 1.46em;
+}
 
 /* Base */
 html, body { height: 100%; }
@@ -184,8 +187,22 @@ a,
 	transition: all 0.15s ease;
 }
 
-ul 	{ margin:10px; padding:0; }
-li	{ list-style-type:circle; list-style-position:inside; }
+ul, ol {
+	margin: 0 0 24px 6px;
+  padding-left: 16px;
+}
+
+ul {
+	list-style-type: square;
+}
+
+ol {
+	list-style-type: decimal;
+}
+
+li	{
+	 list-style-type:circle; list-style-position:inside;
+ }
 
 /* Line Height */
 #post-body, p { line-height:1.7; }
