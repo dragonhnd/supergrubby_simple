@@ -1,10 +1,8 @@
 ---
 title: "关于学习的反思"
 date: 2015-10-07 20:22:31
-description: 对自己的忠告
+description: 随笔
 ---
-
-*我本人是个学渣。我的脑子还算够用，但肯定不够聪明。我记性还不错，反应也还算快，但是细致分析问题的能力却很差。一半是因为我这个人耐心不足，一半是因为我取巧尝到了短暂的甜头，却因此失去了锻炼自己的机会。毕业之后，我一直在反思自己作为学生的学习经历，发现自己花了很多精力做了很多莫名其妙的事情。*
 
 ##学习、科学、定理
 一位很聪明的教授在课上和我们讲解讨论什么叫学习，听了之后对我很有启发。简而言之——传统观念里认为的聪明大多是指记忆力好，但记忆力好多人却未必是真的聪明，聪明更在于培养理解和解决问题的能力。
@@ -59,4 +57,6 @@ description: 对自己的忠告
 
 分数高，作业做得好，代表着在这个规则里的优秀。
 
-**But do remember, this is not you and this is not the world. The world is much bigger. And you are much more than this.**
+自己能做的，就是记住规则并不代表者全部。
+
+The world is much bigger. And you are much more than this.
