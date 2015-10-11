@@ -62,16 +62,24 @@ body {
 	text-rendering: optimizeLegibility;
 }
 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Georgia", "Xin Gothic", "Hiragino Sans GB", "Droid Sans Fallback", "Microsoft YaHei", "SimSun", sans-serif;
+  color: #222223;
+}
+
 h1 {
-	font-size: 30px;
-	letter-spacing: -1px;
-	color: #222;
-	font-weight: bold;
+	font-size: 1.8em;
+  margin: 0.67em 0;
 }
 
 h2 {
-	font: italic 19px/1.3em Georgia,serif;
-	color: #bbb;
+	font-size: 1.5em;
+  margin: 0.83em 0;
 }
 
 .profile #wrapper {
