@@ -1,5 +1,5 @@
 ---
-title: "Arno最后的话"
+title: "Arno said"
 date: 2015-09-23 20:32:31
 description: 随笔
 ---

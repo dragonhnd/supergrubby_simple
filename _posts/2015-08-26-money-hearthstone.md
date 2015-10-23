@@ -1,7 +1,7 @@
 ---
-title: "Money & HearthStone"
+title: "炉石传说如何让你的钱包变薄"
 date: 2015-08-26 12:27:31
-description: Game Analysis
+description: 随笔
 ---
 
 *本文涉及金钱的数字，计量单位均为人民币*
